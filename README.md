@@ -120,7 +120,7 @@ http://<ec2-instance-public-ip>:8080/restart
 
 using Docker as agent.
 
-Used docker for pre installed dependencies.
+for the application light weight we used docker as agent.
 
 The docker agent configuration is now successful.
 
