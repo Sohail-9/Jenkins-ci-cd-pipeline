@@ -118,8 +118,6 @@ Once you are done with the above steps, it is better to restart Jenkins.
 http://<ec2-instance-public-ip>:8080/restart
 ```
 
-using Docker as agent.
-
 for the application light weight we used docker as agent.
 
 The docker agent configuration is now successful.
